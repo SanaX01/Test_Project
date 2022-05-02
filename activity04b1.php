@@ -12,7 +12,7 @@
         $_SESSION['myname'] = "";
     ?>
     <form action="activity04b2.php" method="post">
-        <p>My name: <input type="text" name="name" ></p>
+        <p>My ASdasdioqwyeo: <input type="text" name="name" ></p>
         
         <p>Password: <input type="password" name="pass"></p>
         <input type="submit" name="submit">
